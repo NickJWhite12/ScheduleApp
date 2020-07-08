@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeEventScheduleApp", "EmployeeEventScheduleApp\EmployeeEventScheduleApp.csproj", "{0F2237EE-3397-49E2-8839-C33CEB480728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeEventScheduleApp.Tests", "EmployeeEventScheduleApp.Tests\EmployeeEventScheduleApp.Tests.csproj", "{6F8FD00D-7EAC-4BB6-901D-1E348103CABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2237EE-3397-49E2-8839-C33CEB480728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2237EE-3397-49E2-8839-C33CEB480728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2237EE-3397-49E2-8839-C33CEB480728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2237EE-3397-49E2-8839-C33CEB480728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8FD00D-7EAC-4BB6-901D-1E348103CABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8FD00D-7EAC-4BB6-901D-1E348103CABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8FD00D-7EAC-4BB6-901D-1E348103CABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8FD00D-7EAC-4BB6-901D-1E348103CABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1AA4FCA-2554-44B6-93B2-EF8B6672EE6D}
+	EndGlobalSection
+EndGlobal
